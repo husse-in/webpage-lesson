@@ -1,0 +1,140 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+
+
+.first{
+    width: 100%;
+    padding: 20rem;
+    background-image: url("../img/bg-masthead.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+
+.first h1{
+font-size: 60px;
+color: white;
+}
+
+.first h3 em{
+    font-size: 25px;
+    color: white;
+}
+
+.first h3{
+    margin-bottom: 50px;
+
+}
+
+.first a{
+font-size: 16px;
+text-decoration: none;
+color: white;
+background-color: red;
+padding: 20px 40px;
+border-radius: 30px;
+transition: 0.5ms;
+}
+
+.second{
+    width: 100%;
+    padding: 8rem;
+    text-align: center;
+    background-color: red;
+}
+
+.second h2{
+    font-size: 32px;
+    color: black;
+    margin-bottom: 5px;
+}
+
+.second p{
+    font-size: 20px;
+    color: black;
+    margin-bottom: 35px;
+}
+
+.second p a{
+    font-size: 20px;
+    color: black;
+}
+
+.second a{
+    font-size: 16px;
+    text-decoration: none;
+    color: black;
+    background-color: white;
+    padding: 20px 40px;
+    border-radius: 35px;
+    transition: 0.5ms;
+    }
+
+    .third{
+        width: 100%;
+        padding: 8rem;
+        text-align: center;
+    }
+    
+
+
+
+.third input{
+    width: 100%;
+    padding: 20px;
+    text-align: center;
+    border-radius: 45px;
+}
+
+    .third h4{
+        font-size: 32px;
+        color: black;
+        margin-bottom: 5px;
+    }
+    
+    .third p{
+        font-size: 20px;
+        color: black;
+        margin-bottom: 35px;
+    }
+    
+    .third p a{
+        font-size: 20px;
+        color: black;
+    }
+    
+    .third a{
+        font-size: 30px;
+        text-decoration: none;
+        color: white;
+        background-color: red;
+        padding: 10px 100px;
+        border-radius: 50px;
+        transition: 0.5ms;
+        width: 100%;
+        }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
